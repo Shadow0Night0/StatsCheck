@@ -1,0 +1,10 @@
+#Javier Castaneda 
+#410721322
+#Data Science Final Project         Date:6/15/2022
+#Created a system for users to check their stats from different games.
+#Currently only 3 games are available to check(Valorant, Apex Legends, League of Legends)
+#if you do not have an account for any of these games u can use the following usernames for testing
+    #Valorant: Shadow0Night0#6666
+    #League: Shadow0Night0  
+    #Apex: Shadow0Night0
+#note that the system sometimes give trouble, this is due to the webpage, so sometimes u just need to sumbit again to get the results.
